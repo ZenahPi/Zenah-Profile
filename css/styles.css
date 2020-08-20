@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  background-color: #ffcee4;
+  text-align: center;
+  font-family: 'Cutive Mono', monospace;
+}
+
+h1 {
+  margin: 0;
+  color: white;
+  font-family: 'Passion One', cursive;
+  font-size: 6.25rem;
+}
+
+h2 {
+  font-family: 'Bungee Shade', cursive;
+  font-size: 3.125rem;
+  color: #0f1021;
+}
+
+h3 {
+  font-family: 'Bungee Shade', cursive;
+  font-size: 1.875rem;
+  color: #0f1021;
+}
+
+h4 {
+  font-family: 'Cutive Mono', monospace;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+}
+
+p {
+  color: #0f1021;
+  font-size: 1.25rem;
+  font-weight: bolder;
+}
+
+.top-container {
+  background-color: #0f1021;
+  height: 550px;
+  width: 100%;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #ffcee4;
+}
+
+.bottom-container {
+  background-color: #ffcee4;
+  padding: 50px 50px;
+}
+
+.paragraph-1 {
+  width: 50%;
+  margin: auto;
+}
+
+.paragraph-4 {
+  width: 50%;
+  margin: 30px auto 30px auto;
+}
+
+.footer-link {
+  font-family: 'Cutive Mono', monospace;
+  text-decoration: none;
+  margin: 20px 10px;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.copyright {
+  font-size: 0.8rem;
+  padding: 20px
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+  line-height: 2;
+}
+
+.skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skills-img {
+  text-align: center;
+  margin: 100px auto 100px auto;
+}
+
+.skill-pic1 {
+  position: absolute;
+  left: 150px;
+  width: 6.5%
+}
+
+.skill-pic2 {
+  position: absolute;
+  left: 150px;
+  top: 1290px;
+  width: 6.5%
+}
+
+.skill-pic3 {
+  position: absolute;
+  left: 150px;
+  top: 1385px;
+  width: 6.5%
+}
+
+.skill-pic4 {
+  position: absolute;
+  right: 150px;
+  top: 1575px;
+  width: 8%
+}
+
+.skill-pic5 {
+  position: absolute;
+  right: 150px;
+  top: 1680px;
+  width: 8%
+}
+
+.left-graphic1 {
+  position: absolute;
+  left: 20px;
+  top: 150px;
+}
+
+.right-graphic2 {
+  position: absolute;
+  right: 20px;
+  top: 150px;
+}
+
+.footer-link {
+  color: #0f1021;
+}
+
+.btn {
+  background: linear-gradient(to bottom, #0f1021 5%, #0f1021 100%);
+  background-color: #0f1021;
+  border-radius: 15px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Cutive Mono', monospace;
+  font-size: 17px;
+  padding: 11px 23px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #d01257 5%, #d01257 100%);
+  background-color: #d01257;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
